@@ -5,6 +5,10 @@ due to the `crontab -r` command.
 
 It helps recover the original cron jobs by retrieving them from cron-related logs left in the Linux syslog.
 
+## Requirements
+
+- Python 3.7 or higher
+
 ## How to Use
 
 ```
