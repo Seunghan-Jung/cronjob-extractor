@@ -12,5 +12,5 @@ It helps recover the original cron jobs by retrieving them from cron-related log
 ## How to Use
 
 ```
-curl -sSL https://raw.githubusercontent.com/Seunghan-Jung/cronjob-extractor/refs/heads/main/cronjob_extractor.py | sudo python3.8 -
+curl -sSL https://raw.githubusercontent.com/Seunghan-Jung/cronjob-extractor/refs/heads/main/cronjob_extractor.py | sudo python -
 ```
